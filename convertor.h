@@ -20,6 +20,7 @@
 #ifndef PIN_OUT_TX
     #define PIN_OUT_TX 10
 #endif
+
 #ifndef PIN_BUTTON
     #define PIN_BUTTON 6   // на C3 devkit это кнопка BOOT
 #endif
